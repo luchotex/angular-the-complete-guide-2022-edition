@@ -1,3 +1,33 @@
 [submodule "routing-start"]
 	path = routing-start
 	url = https://github.com/luchotex/routing-start
+[submodule "basics-assignment-1-start"]
+	path = basics-assignment-1-start
+	url = https://github.com/luchotex/basics-assignment-1-start
+[submodule "basics-assignment-3-start"]
+	path = basics-assignment-3-start
+	url = https://github.com/luchotex/basics-assignment-3-start
+[submodule "basics-assignment-2-start"]
+	path = basics-assignment-2-start
+	url = https://github.com/luchotex/basics-assignment-2-start
+[submodule "cmp-databinding-assignment-start"]
+	path = cmp-databinding-assignment-start
+	url = https://github.com/luchotex/cmp-databinding-assignment-start
+[submodule "cmp-databinding-start"]
+	path = cmp-databinding-start
+	url = https://github.com/luchotex/cmp-databinding-start
+[submodule "directives-start"]
+	path = directives-start
+	url = https://github.com/luchotex/directives-start
+[submodule "my-first-app"]
+	path = my-first-app
+	url = https://github.com/luchotex/my-first-app
+[submodule "ng4-complete-guide"]
+	path = ng4-complete-guide
+	url = https://github.com/luchotex/ng4-complete-guide
+[submodule "services-assignment-start"]
+	path = services-assignment-start
+	url = https://github.com/luchotex/services-assignment-start
+[submodule "services-start"]
+	path = services-start
+	url = https://github.com/luchotex/services-start
