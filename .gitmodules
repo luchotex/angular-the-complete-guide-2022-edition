@@ -31,3 +31,6 @@
 [submodule "services-start"]
 	path = services-start
 	url = https://github.com/luchotex/services-start
+[submodule "obs-01-start"]
+	path = obs-01-start
+	url = https://github.com/luchotex/obs-01-start.git
