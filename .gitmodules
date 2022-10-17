@@ -37,3 +37,6 @@
 [submodule "forms-td-start"]
 	path = forms-td-start
 	url = https://github.com/luchotex/forms-td-start.git
+[submodule "forms-td-assignment-start"]
+	path = forms-td-assignment-start
+	url = https://github.com/luchotex/forms-td-assignment-start.git
